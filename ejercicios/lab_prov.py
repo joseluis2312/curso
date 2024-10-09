@@ -82,3 +82,4 @@ vAux=(["Phone", 499.99, 10])
 vOBJSales.ejecutar()
 vAux = vOBJSales.count_total_items()
 print(vAux)
+revisar
